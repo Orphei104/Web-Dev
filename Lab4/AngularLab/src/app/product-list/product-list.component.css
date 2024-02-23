@@ -1,0 +1,16 @@
+img {
+    width: 900px;
+    height: 250px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+button {
+    margin-bottom: 7px;
+    margin-right: 10px;
+}
+
+
+.whatsapp {
+    background-color: green;
+}
