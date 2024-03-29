@@ -6,22 +6,22 @@ export interface Category {
 export const category = [
     {
         id: 1,
-        name: 'Phones'
+        name: 'Cars'
     },
     {
         id: 2,
-        name: 'Notebooks'
+        name: 'Parfums'
     },
     {
         id: 3,
-        name: 'Headsets'
+        name: 'Collectibles'
     },
     {
         id: 4,
-        name: 'Tablets'
+        name: 'Games'
     },
     {
         id: 5,
-        name: 'Sushnyak'
+        name: 'Cigarette'
     }
 ]
